@@ -1,28 +1,36 @@
-<h2> Hi, I'm Yassmine El Mourabit! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2>Hi, I'm Yassmine El Mourabit! 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45"></h2>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="220"/>
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const thai = {
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<p>
+<em>
+🎓 Student in <strong>Computer Science & Networks</strong>  
+at <a href="https://www.emsi.ma/">EMSI – École Marocaine des Sciences de l’Ingénieur</a>  
+</br>
+💻 Passionate about programming, problem-solving & learning new technologies
+</em>
+</p>
 
 ---
+
+### 👩‍💻 About Me
+
+- 🎓 3rd-year student in **Informatique et Réseaux (IR)**
+- 💡 Interested in **Software Development** and **Object-Oriented Programming**
+- 🚀 Constantly improving my skills through practice and projects
+- 🌱 Currently strengthening my knowledge in **C++ (OOP)** and **Web Development**
+
+---
+
+### 🛠️ Technical Skills
+
+```javascript
+const yassmine = {
+  languages: ["HTML", "CSS", "JavaScript", "PHP", "SQL", "C++ (OOP)"],
+  operatingSystems: ["Linux"],
+  concepts: ["Object-Oriented Programming", "Algorithms", "Databases"],
+  tools: ["Git", "GitHub", "VS Code"],
+  currentlyLearning: ["Advanced C++", "Backend Development", "Networking Basics"],
+  goal: "Become a skilled software engineer and build impactful projects"
+};
