@@ -14,7 +14,7 @@ at <a href="https://www.emsi.ma/">EMSI – École Marocaine des Sciences de l’
 
 ---
 
-### 👩‍💻 About Me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 - 🎓 3rd-year student in **Informatique et Réseaux (IR)**
 - 💡 Interested in **Software Development** and **Object-Oriented Programming**
