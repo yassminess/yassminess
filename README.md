@@ -41,6 +41,7 @@ at <a href="https://www.emsi.ma/">EMSI – École Marocaine des Sciences de l’
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code&logoColor=white)
 
 
- <img src='https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif' width='20'/>"
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="20"/>
+
 goal: "Become a skilled software engineer and build impactful projects"
 
