@@ -44,5 +44,5 @@ at <a href="https://www.emsi.ma/">EMSI – École Marocaine des Sciences de l’
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
 
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="40"/>goal: "Become a skilled software engineer and build impactful projects"
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="40"/> Goal: "Become a skilled software engineer and build impactful projects"
 
