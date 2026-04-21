@@ -1,4 +1,4 @@
-<h2>Hi, I'm Yassmine El Mourabit! 
+<h2>Hi, I'm Yasmine El Mourabit! 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45"></h2>
 
 <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="220"/>
